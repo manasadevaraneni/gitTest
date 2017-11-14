@@ -8,5 +8,8 @@ Spring
 Git
 AWS
 AJ
+Jenkins
+Restful webservices
+
 
 Thank you
